@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SCAP-PI-2L.PcbDoc   11/17/2019  2:45:38 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SCP-PI-A.TXT
+EIA File   : SCP-PI-A.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             129       PTH        0.00inch (0.00mm)
+T2      32mil (0.8mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T3      39mil (1mm)                                               Round             16        PTH        0.00inch (0.00mm)
+T4      47mil (1.2mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T5      39mil (1mm)                                               Round             40        NPTH       0.00inch (0.00mm)
+T6      108mil (2.75mm)                                           Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              197
+
+Total Processing Time (hh:mm:ss) : 00:00:00
