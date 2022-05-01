@@ -4,4 +4,4 @@
 
 The repository contains the Altium project
 
-![image info](Documentation/Pictures/SCP-PI-A.png)
+![image info](Documentation/Pictures/SCP-PI-B.png)
